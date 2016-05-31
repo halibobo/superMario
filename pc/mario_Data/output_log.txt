@@ -1,0 +1,16 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     112 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\project\Unity Projects\supermario\pc\mario_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\project\Unity Projects\supermario\pc\mario_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\project\Unity Projects\supermario\pc\mario_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\project\Unity Projects\supermario\pc\mario_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.238 seconds
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.

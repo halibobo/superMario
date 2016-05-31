@@ -1,0 +1,11 @@
+D:\project\Unity Projects\supermario\Temp\bin\Debug\Assembly-CSharp.dll
+D:\project\Unity Projects\supermario\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\project\Unity Projects\supermario\Temp\bin\Debug\UnityEditor.dll
+D:\project\Unity Projects\supermario\Temp\bin\Debug\UnityEngine.dll
+D:\project\Unity Projects\supermario\Temp\bin\Debug\Mono.Cecil.dll
+D:\project\Unity Projects\supermario\Temp\bin\Debug\nunit.framework.dll
+D:\project\Unity Projects\supermario\Temp\bin\Debug\Unity.DataContract.dll
+D:\project\Unity Projects\supermario\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\project\Unity Projects\supermario\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\project\Unity Projects\supermario\obj\Debug\Assembly-CSharp.dll
+D:\project\Unity Projects\supermario\obj\Debug\Assembly-CSharp.pdb
