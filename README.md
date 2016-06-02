@@ -2,8 +2,13 @@
 # 超级马里奥
 [我的个人博客](http://www.dahei.me)
 
+
 ## 利用unity引擎做的超级马里奥，完全自学，现在开源
 ## 亲测可以在windows电脑、wp手机和android手机上玩
+
+
+![enter image description here](https://raw.githubusercontent.com/halibobo/BlogImage/master/blog/mario/mario.gif)
+
 
 ## 【注】在手机端上玩需要打开虚拟摇杆
 MarioCtrl.cs
