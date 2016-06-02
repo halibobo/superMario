@@ -83,7 +83,11 @@ public class MarioCtrl : MonoBehaviour {
         //if (isTouchJump()&&isGround)
         {
             World.playAudio(World.jumpAudioIndex);
+<<<<<<< HEAD
             GetComponent<Rigidbody2D>().velocity = new Vector2(0, jumpSeed);
+=======
+            rigidbody2D.velocity = new Vector2(0, jumpSeed);
+>>>>>>> 8c9a1df50fb98a4abbda29382c341737c5fca2fe
             jumpAnim();
         }
 
@@ -93,7 +97,11 @@ public class MarioCtrl : MonoBehaviour {
             {
                 standAnim();
             }
+<<<<<<< HEAD
             else if(GetComponent<Rigidbody2D>().velocity.y <= 0)
+=======
+            else if(rigidbody2D.velocity.y <= 0)
+>>>>>>> 8c9a1df50fb98a4abbda29382c341737c5fca2fe
             {
                 isJump = false;
             }

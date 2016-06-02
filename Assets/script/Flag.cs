@@ -21,7 +21,11 @@ public class Flag : MonoBehaviour {
         {
             if (!isSuccess)
             {
+<<<<<<< HEAD
                 GetComponent<Rigidbody2D>().gravityScale = 0.02f;
+=======
+                rigidbody2D.gravityScale = 0.02f;
+>>>>>>> 8c9a1df50fb98a4abbda29382c341737c5fca2fe
                 isSuccess = true;
             }
         }
